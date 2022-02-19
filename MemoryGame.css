@@ -217,7 +217,7 @@ body {
   transform: rotateY(0deg);
   background-color: #e12d00;
   border-radius: 5%;
-  background-image: url(../images/card.svg);
+  background-image: url(card.svg);
   background-position:50% 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -239,47 +239,47 @@ body {
 }
 
 .back.card-1 {
-  background-image: url(../images/fruits/apple.jpg);
+  background-image: url(apple.jpg);
 }
 .back.card-2 {
-  background-image: url(../images/fruits/fig.jpg);
+  background-image: url(fig.jpg);
 }
 .back.card-3 {
-  background-image: url(../images/fruits/grape.jpg);
+  background-image: url(grape.jpg);
 }
 .back.card-4 {
-  background-image: url(../images/fruits/kiwi.jpg);
+  background-image: url(kiwi.jpg);
 }
 .back.card-5 {
-  background-image: url(../images/fruits/lemon.jpg);
+  background-image: url(lemon.jpg);
 }
 .back.card-6 {
-  background-image: url(../images/fruits/lime.jpg);
+  background-image: url(lime.jpg);
 }
 .back.card-7 {
-  background-image: url(../images/fruits/mango.jpg);
+  background-image: url(mango.jpg);
 }
 .back.card-8 {
-  background-image: url(../images/fruits/melon.jpg);
+  background-image: url(melon.jpg);
 }
 .back.card-9 {
-  background-image: url(../images/fruits/orange.jpg);
+  background-image: url(orange.jpg);
 }
 .back.card-10 {
-  background-image: url(../images/fruits/peach.jpg);
+  background-image: url(peach.jpg);
 }
 .back.card-11 {
-  background-image: url(../images/fruits/pear.jpg);
+  background-image: url(pear.jpg);
 }
 .back.card-12 {
-  background-image: url(../images/fruits/pinapple.jpg);
+  background-image: url(pinapple.jpg);
 }
 .back.card-13 {
-  background-image: url(../images/fruits/plum.jpg);
+  background-image: url(plum.jpg);
 }
 .back.card-14 {
-  background-image: url(../images/fruits/raspberry.jpg);
+  background-image: url(raspberry.jpg);
 }
 .back.card-15 {
-  background-image: url(../images/fruits/strawberry.jpg);
+  background-image: url(strawberry.jpg);
 }
